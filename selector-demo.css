@@ -1,0 +1,6 @@
+/* Four selector types: element, class, ID and attribute */
+p { line-height: 1.7; }                 /* Element selector */
+.highlight { background: #fff0b8; }      /* Class selector */
+#special { color: #b42318; }             /* ID selector */
+a[href] { text-decoration-thickness: 2px; } /* Attribute selector */
+.selector-title { color: #24448f; }

@@ -1,0 +1,6 @@
+.flex-nav { display:flex; align-items:center; justify-content:space-between; gap:1rem; flex-wrap:wrap; padding:1rem; background:#fff; border-radius:12px; }
+.flex-nav div { display:flex; gap:1rem; flex-wrap:wrap; }
+.login-stage { min-height:55vh; display:flex; align-items:center; justify-content:center; padding:1rem; }
+.login-card { width:min(420px,100%); background:white; padding:1.5rem; border-radius:14px; box-shadow:0 8px 24px #182a5417; }
+.product-row { display:flex; flex-wrap:wrap; gap:1rem; }
+.product-row > * { flex:1 1 180px; }
